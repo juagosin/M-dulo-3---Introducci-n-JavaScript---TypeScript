@@ -1,0 +1,11 @@
+{
+  "name": "lemoncode-modulo-3---js-y-typescript",
+  "version": "1.0.0",
+  "description": "Un texto en formato CSV tiene el nombre de los campos en la primera fila y los datos en el resto, separados por comas.\r Crea un parseador que reciba un string en formato CSV y devuelva una colección de objetos.\r Utiliza destructuring, rest y spread operator donde creas conveniente.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --quiet --watch ./ --ext js --exec node index.js"
+  },
+  "author": "Juan Gómez",
+  "license": "MIT"
+}
